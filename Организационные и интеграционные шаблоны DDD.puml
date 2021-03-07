@@ -1,0 +1,36 @@
+@startuml
+
+left to right direction
+
+together {
+    rectangle "Организационные и интеграционные шаблоны DDD" as templates
+
+    rectangle "ПАРТНЁРСТВО\n(PARTNERSHIP)" as p
+
+    rectangle "ОБЩЕЕ ЯДРО\n(SHARED KERNEL)" as sk
+
+    rectangle "ЗАКАЗЧИК-ПОСТАВЩИК\n(CUSTOMER-SUPPLIER DEVELOPMENT)" as cs
+
+    rectangle "КОНФОРМИСТ\n(CONFORMIST)" as c
+
+    rectangle "ПРЕДОХРАНИТЕЛШЬНЫЙ УРОВЕНЬ\n(AUNTICORRUPTION LAYER)" as al
+
+    rectangle "СЛУЖБА С ОТКРЫТЫМ ПРОТОКОЛОМ\n(OPEN HOST SERVICE)" as oh
+
+    rectangle "ОБЩЕДОСТУПНЫЙ ЯЗЫК\n(PUBLISHED LANGUAGE)" as pl
+
+    rectangle "ОТДЕЛЬНОЕ СУЩЕСТВОВАНИЕ\n(SEPARATE WAYS)" as sw
+
+    rectangle "БОЛЬШОЙ КОМОК ГРЯЗИ\n(BIG BALL OF MUD)" as bb
+
+    templates -- p
+    templates -- sk
+    templates -- cs
+    templates -- c
+    templates -- al
+    templates -- oh
+    templates -- pl
+    templates -- sw
+    templates -- bb
+}
+@enduml
