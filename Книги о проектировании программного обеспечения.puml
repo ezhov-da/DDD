@@ -1,0 +1,23 @@
+@startmindmap
+title Книги о проектировании программного обеспечения\n "https://apolomodov.medium.com/software-design-books-743be52e4c71"
+* Книги
+** что делаем
+*** Domain-Driven Design: Tackling Complexity in the Heart of Software
+*** What Is Domain-Driven Design?
+** как делаем
+*** Fundamentals of Software Architecture
+*** Building Evolutionary Architectures
+*** Designing Data-Intensive Applications
+*** Designing Distributed Systems
+*** Architecting for Scale, 2nd Edition
+*** Cloud Native
+*** Patterns of Enterprise Application Architecture
+*** Enterprise Integration Patterns: Designing, Building, and Deploying Messaging
+*** Monolith to Microservices
+*** Building Microservices, 2nd Edition
+** как эксплуатируем
+*** Release It!, 2nd Edition
+*** Site Reliability Engineering
+*** The Site Reliability Workbook
+*** Kubernetes Patterns
+@endmindmap
