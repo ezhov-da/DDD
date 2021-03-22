@@ -1,0 +1,30 @@
+@startmindmap
+title TOP книг 
+* Книги
+** Проектирование
+*** Предметно-ориентированное проектирование \n <b>https://www.combook.ru/product/11646156/</b>
+*** Реализация методов предметно-ориентированного проектирования \n <b> https://www.combook.ru/product/11891723/</b>
+*** Проектирование веб-API \n <b> http://www.combook.ru/product/12007581/</b>
+*** Совершенный софт \n <b> http://www.combook.ru/product/12023275/</b>
+*** Эволюционная архитектура \n <b> https://www.combook.ru/product/11892014/</b>
+*** Чистая архитектура. Искусство разработки программного обеспечения \n <b> https://www.combook.ru/product/11855037/</b>
+*** Шаблоны корпоративных приложений \n <b> https://www.combook.ru/product/11886015/</b>
+*** Паттерны объектно-ориентированного проектирования \n <b> https://www.combook.ru/product/12001441/</b>
+*** Микросервисы. Паттерны разработки и рефакторинга \n <b> https://www.combook.ru/product/11935009/</b>
+*** Шаблоны интеграции корпоративных приложений \n <b> http://www.combook.ru/product/10914955/</b>
+
+** Развертывание
+*** Непрерывное развертывание ПО \n <b> https://www.combook.ru/product/10280105/</b>
+
+** Рефакторинг
+*** Рефакторинг: улучшение существующего кода \n <b> http://www.combook.ru/product/11837572/</b>
+
+** UML
+*** UML. Основы \n <b> https://www.combook.ru/product/10041772/</b>
+
+** Kubernetes
+*** Kubernetes для DevOps: развертывание, запуск и масштабирование в облаке \n <b> http://www.combook.ru/product/11981014/</b>
+
+** Код
+*** Чистый код: создание, анализ и рефакторинг \n <b>  https://www.combook.ru/product/11875352/</b>
+@endmindmap
